@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PokeMediaMovil",
-    "slug": "PokeMediaMovil",
+    "name": "PokePedia",
+    "slug": "PokePedia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
